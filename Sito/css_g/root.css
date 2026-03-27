@@ -1,0 +1,19 @@
+:root {
+
+  /*Colore testo e bordi dell'login*/
+  --text: #202124;
+  --border-input: #000000;
+
+  /*Colore del input quando ci vado sopra e del bordo*/
+  --input-focus: #0051ff;
+  --border-form: #04a3b8;
+
+  /*Colore di sfondo del tasto 'invia' e sfondo delle pagine*/
+  --background-button: #E0F7FA;
+  --background: #cde0e2;
+  --background-form: #1cc8df;
+
+  /*Colore primario e sfondo quando vado sopra a determinate parti*/
+  --on-primary: #f0f8ff;
+  --primary: #7ec5ff;
+}
